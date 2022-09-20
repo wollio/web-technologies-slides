@@ -1,6 +1,6 @@
 {
   "name": "web-technologies-slides",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Slidev Slides on the topic of web technologies",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
