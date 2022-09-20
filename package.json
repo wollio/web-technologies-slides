@@ -1,5 +1,5 @@
 {
-  "name": "web-technologies-slides",
+  "name": "@wollio/web-technologies-slides",
   "version": "0.0.5",
   "description": "Slidev Slides on the topic of web technologies",
   "scripts": {
