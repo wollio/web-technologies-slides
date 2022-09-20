@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wollio/web-technologies-slides/issues"
   },
-  "homepage": "https://github.com/wollio/web-technologies-slides#readme"
+  "homepage": "https://github.com/wollio/web-technologies-slides#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
