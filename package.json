@@ -1,0 +1,24 @@
+{
+  "name": "web-technologies-slides",
+  "version": "0.0.1",
+  "description": "Slidev Slides on the topic of web technologies",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wollio/web-technologies-slides.git"
+  },
+  "keywords": [
+    "slidev",
+    "slides",
+    "web",
+    "technologies"
+  ],
+  "author": "David Wollschlegel",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/wollio/web-technologies-slides/issues"
+  },
+  "homepage": "https://github.com/wollio/web-technologies-slides#readme"
+}
